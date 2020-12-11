@@ -1,0 +1,19 @@
+POST http://localhost:8080/pyunggyo
+Content-Type: application/json
+
+{
+  "action_flag": "i",
+  "lecture_nm": "test",
+  "area_cd": "1010",
+  "org_nm": "",
+  "edu_fr_dt": "",
+  "edu_to_dt": "",
+  "site_url": "",
+  "link_id": 0,
+  "isrt_id": "",
+  "isrt_ip": "",
+  "isrt_dt": "",
+  "updt_id": "",
+  "updt_ip": "",
+  "updt_dt": ""
+}
